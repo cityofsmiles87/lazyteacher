@@ -1,4 +1,4 @@
 ---
-title: Welcome to my fuc
+title: Lazy Teacher
 ---
 
